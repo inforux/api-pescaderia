@@ -14,7 +14,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto:
 
 1. **Clonar el proyecto**
 
-    Para obtener una copia local del proyecto, clónalo desde GitHub con el siguiente comando:
+    Para obtener una copia local del proyecto, clónalo:
 
     ```bash
     git clone https://github.com/inforux/api-pescaderia.git
@@ -44,6 +44,12 @@ Sigue estos pasos para instalar y ejecutar el proyecto:
 
     ```bash
     npm run dev
+
+
+## Nota Importante
+
+Este proyecto funciona con MongoDB. Es necesario tener configurado el servidor MongoDB con una base de datos llamada "pescaderia". Cuando el proyecto se conecte por primera vez, generará datos de prueba.
+Ademas importante tener el URI mongo en el archivo .env
 
 
 ## Imágenes
