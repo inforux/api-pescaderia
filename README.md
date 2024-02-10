@@ -1,4 +1,4 @@
-# API REST PESCADERIA - REACTJS CON MONGODB
+# API REST PESCADERIA - NODEJS CON MONGODB
 
 Gestión de ventas, usuarios, productos, compras, clientes. 
 
